@@ -1,0 +1,1 @@
+{"coins": 1, "max_depth": 19, "energy": 119, "upgrades": {"battery": 2, "explosion": 1, "springs": 2, "speed": 0}, "settings": {"sfx": 70, "music": 70, "god": false}}
