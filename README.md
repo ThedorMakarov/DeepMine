@@ -1,2 +1,2 @@
 # DeepMine
-that's my individual project from school
+that's my individual project for school
